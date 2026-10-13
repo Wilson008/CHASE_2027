@@ -1,0 +1,94 @@
+{
+  "source": "codage/Data/PullRequestEvent.parquet",
+  "total_candidate_prs": 2854529,
+  "rule_counts": [
+    {
+      "rule": "Codex:branch",
+      "prs": 1932629
+    },
+    {
+      "rule": "Copilot:branch+login",
+      "prs": 620262
+    },
+    {
+      "rule": "Cursor:branch",
+      "prs": 165474
+    },
+    {
+      "rule": "Devin:login",
+      "prs": 50530
+    },
+    {
+      "rule": "Jules:login",
+      "prs": 11095
+    },
+    {
+      "rule": "AmazonQ:login",
+      "prs": 1204
+    }
+  ],
+  "params": {
+    "cmd": "stage1",
+    "pr_parquet": "codage/Data/PullRequestEvent.parquet",
+    "out": "out/",
+    "post_months": 6,
+    "pre_months": 6,
+    "min_agent_prs": 20,
+    "min_active_months": 3,
+    "earliest_t0": "2025-01-01",
+    "sample_per_rule": 30
+  },
+  "funnel": [
+    {
+      "stage": "S1",
+      "filter": "repos with >=1 high-confidence agent PR",
+      "repos": 554318
+    },
+    {
+      "stage": "S1",
+      "filter": "excluding agent self-referential repos",
+      "repos": 554316
+    },
+    {
+      "stage": "S1",
+      "filter": ">= 20 agent PRs",
+      "repos": 22294
+    },
+    {
+      "stage": "S1",
+      "filter": "agent activity in >= 3 distinct months",
+      "repos": 7361
+    },
+    {
+      "stage": "S1",
+      "filter": "t0 in [2025-01-01, 2025-10-17] (>= 6-month post-window in CodAGE)",
+      "repos": 4814
+    },
+    {
+      "stage": "S2",
+      "filter": "still reachable via API",
+      "repos": 3705
+    },
+    {
+      "stage": "S2",
+      "filter": "not a fork, not archived",
+      "repos": 3429
+    },
+    {
+      "stage": "S2",
+      "filter": ">= 100 stars",
+      "repos": 369
+    }
+  ],
+  "stage2_params": {
+    "cmd": "stage2",
+    "pr_parquet": null,
+    "out": "out/",
+    "post_months": 6,
+    "pre_months": 6,
+    "min_stars": 100,
+    "min_pre_merged": 30,
+    "min_post_merged": 30,
+    "metadata_only": true
+  }
+}

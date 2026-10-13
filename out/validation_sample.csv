@@ -1,0 +1,382 @@
+rule,period,repo_name,pull_request.number,created_at,actor_login,pull_request.head.ref,pull_request.title
+Cursor:branch,post_2025-10,wasdw1012/RSA-LLL-2.0,1,2025-12-23T07:48:21Z,wasdw1012,cursor/rsa-direct-attack-patch-aafb,
+Cursor:branch,post_2025-10,821859805/chat-bi-ai-poc,1,2025-10-31T07:26:47Z,821859805,cursor/generate-chatbi-server-java-unit-tests-bbcb,
+Cursor:branch,post_2025-10,pawlsclick/mnemospark,5,2026-02-25T21:05:35Z,pawlsclick,cursor/client-list-download-delete-f0b1,
+Cursor:branch,post_2025-10,Zion-Holdings/zion.app,32955,2025-10-15T10:50:24Z,Zion-support,cursor/fix-errors-and-merge-to-main-8eda,
+Cursor:branch,post_2025-10,ShubhamBansude/myproject,38,2025-10-15T03:08:29Z,ShubhamBansude,cursor/clan-bounty-claim-and-notification-system-9df1,
+Cursor:branch,post_2025-10,Palolo875/ORION-,75,2025-10-24T00:05:13Z,Palolo875,cursor/bc-40b7d15b-8fd4-41fb-a7b5-bf4e53914e04-2dc9,
+Cursor:branch,post_2025-10,PiyushJangir24/AI-Tutor-Personal,1,2025-10-04T19:16:27Z,PiyushJangir24,cursor/build-autonomous-ai-tutor-orchestrator-6786,Build autonomous ai tutor orchestrator
+Cursor:branch,post_2025-10,Sreenath3313/College-Lost-Demo,2,2025-10-05T09:56:33Z,Sreenath3313,cursor/add-new-database-column-0987,Add new database column
+Cursor:branch,post_2025-10,Jacintotomas-oss/JTRecords,2,2025-10-05T23:27:35Z,Jacintotomas-oss,cursor/juego-rol-mitolog-a-griega-2d-ligero-f14c,Juego rol mitología griega 2D ligero
+Cursor:branch,post_2025-10,chimera-defi/eth2-quickstart,23,2025-10-16T15:58:45Z,chimera-defi,cursor/security-audit-and-hardening-of-scripts-c564,
+Cursor:branch,post_2025-10,JigneshCalidad/Achivement_Tracker,1,2025-11-17T20:42:35Z,JigneshCalidad,cursor/fix-github-repository-issues-now-c73d,
+Cursor:branch,post_2025-10,devdone-labs/dd-agents-registry,3,2026-02-01T11:03:26Z,jvaca92Code,cursor/agent-shared-skills-options-43c5,
+Cursor:branch,post_2025-10,guyi34super/Game,4,2026-02-24T05:22:00Z,guyi34super,cursor/next-js-dependency-missing-9f1a,
+Cursor:branch,post_2025-10,aaj441/VibeCheck,4,2025-10-22T21:17:30Z,aaj441,cursor/update-keys-and-install-chrome-for-agent-fixes-e7f4,
+Cursor:branch,post_2025-10,flax1977-debug/sb1-a5az9mca,2,2025-10-04T12:46:39Z,flax1977-debug,cursor/implement-reddit-social-client-integration-3c4d,Implement reddit social client integration
+Cursor:branch,post_2025-10,f0stery/CinemaApp,3,2025-11-02T18:04:42Z,f0stery,cursor/bc-c8b3f089-963b-4afc-88d0-b70d64234dd7-d4a0,
+Cursor:branch,post_2025-10,jabrena/cursor-cloud-agent-rest-api-status,373,2025-11-28T15:08:05Z,jabrena,cursor/create-hello-world-java-class-e87d,
+Cursor:branch,post_2025-10,wecoded-dev/Portfolio-By-Using-Cursor,1,2025-10-06T03:19:14Z,wecoded-dev,cursor/build-advanced-glassy-animated-portfolio-ae9b,Build advanced glassy animated portfolio
+Cursor:branch,post_2025-10,Jerryzzs319/3D-,1,2025-11-26T12:12:26Z,Jerryzzs319,cursor/interactive-3d-particle-system-with-gesture-control-gemini-3-pro-preview-4e3d,
+Cursor:branch,post_2025-10,RelationalFabric/howard,4,2025-12-26T17:18:33Z,bahulneel,cursor/benchmarking-and-docs-update-9a2f,
+Cursor:branch,post_2025-10,hesam305/SciPort,1,2025-11-12T14:50:59Z,hesam305,cursor/monitor-alerts-and-create-summaries-80b0,
+Cursor:branch,post_2025-10,ehudso7/PawSpace,40,2025-10-25T05:23:58Z,ehudso7,cursor/implement-video-generation-and-publishing-system-e7b6,
+Cursor:branch,post_2025-10,marchelxyz/mariko,137,2025-11-25T11:41:32Z,marchelxyz,cursor/create-table-booking-page-composer-1-8cc0,
+Cursor:branch,post_2025-10,mazharrasyad/evaluasi-raft-hlf,380,2025-12-15T22:49:18Z,mazharrasyad,cursor/algoritma-raft-smartbft-f7fb,
+Cursor:branch,post_2025-10,tsteward/routine-timer,51,2025-10-07T17:02:38Z,tsteward,cursor/add-tests-for-better-coverage-6e24,Add tests for better coverage
+Cursor:branch,post_2025-10,jabrena/cursor-cloud-agent-rest-api-status,1412,2026-01-10T04:16:21Z,jabrena,cursor/sandbox-hello-world-class-be20,
+Cursor:branch,post_2025-10,almnar0/almeshkat25,4,2025-10-29T07:44:38Z,almnar0,cursor/interactive-element-and-image-section-2880,
+Cursor:branch,post_2025-10,AdmirAlagic/vgen,11,2025-10-08T14:47:32Z,AdmirAlagic,cursor/develop-advanced-audio-visualizer-for-youtube-facb,Develop advanced audio visualizer for youtube
+Cursor:branch,post_2025-10,Ayush1298567/central_computer_sar-drone-swarm,31,2025-10-05T22:04:09Z,Ayush1298567,cursor/integrate-and-test-intelligent-ai-system-d0ad,Integrate and test intelligent AI system
+Cursor:branch,post_2025-10,ehudso7/PawSpace,21,2025-10-25T03:41:33Z,ehudso7,cursor/build-pawspace-service-browsing-and-listing-9b0a,
+Jules:login,pre_2025-10,sator-imaging/FUnit,5,2025-09-17T10:37:01Z,google-labs-jules[bot],feature/add-times-option,Add --times command-line option and fix error messages
+Jules:login,pre_2025-10,IlianPihlajamaa/Verlet.jl,4,2025-09-13T22:22:30Z,google-labs-jules[bot],feature/bonded-interactions,feat: Add support for bonded interactions
+Jules:login,pre_2025-10,MrEisbear/Interbend,1,2025-09-20T23:44:10Z,google-labs-jules[bot],feature/add-readme,Create README.md for the project
+Jules:login,pre_2025-10,domin211/Heliactyl-V2,2,2025-09-10T15:17:35Z,google-labs-jules[bot],v1,Jules PR
+Jules:login,pre_2025-10,DickShmiggleTM/QUONX-HUB,1,2025-09-16T02:40:31Z,google-labs-jules[bot],feat/core-ide-features,feat: Implement Core IDE Features and Electron Shell
+Jules:login,pre_2025-10,predicttrail-cpu/predictrail,16,2025-09-12T19:04:10Z,google-labs-jules[bot],fix-build-error,Fix: Update Tailwind CSS PostCSS configuration
+Jules:login,pre_2025-10,MS-Jahan/OneShot,4,2025-09-14T03:18:10Z,google-labs-jules[bot],feature/auto-attack,feat: Add --auto-attack mode and fix various bugs
+Jules:login,pre_2025-10,adelerpan-afk/galeryku_router,1,2025-09-16T08:25:15Z,google-labs-jules[bot],feat/improve-error-handling,Feat: Improve error handling on the frontend
+Jules:login,pre_2025-10,watkajtys/journeyman,37,2025-09-11T13:17:40Z,google-labs-jules[bot],feature/add-comprehensive-documentation,Add Comprehensive Documentation
+Jules:login,pre_2025-10,CombatOrpheus/PatternRecognitionClass,20,2025-09-22T01:15:23Z,google-labs-jules[bot],feature/parallel-optimization,Implement parallel hyperparameter optimization
+Jules:login,pre_2025-10,pdheeraj99/Spring-Guide,44,2025-09-18T01:42:11Z,google-labs-jules[bot],feature/aop-declaring-aspect,feat(aop): Add notes and code for declaring aspects
+Jules:login,pre_2025-10,ceoloide/ergogen-gui,34,2025-09-28T23:10:46Z,google-labs-jules[bot],feature/output-section-updates,Refactor Outputs section UI and add text file previews
+Jules:login,pre_2025-10,azayrahmad/azos-second-edition,12,2025-09-29T13:29:09Z,google-labs-jules[bot],feature/taskbar-context-menu,feat: Add context menu to taskbar buttons
+Jules:login,pre_2025-10,yuanyanhui/vocabulary-corpus,16,2025-09-24T04:02:40Z,google-labs-jules[bot],feature/batch-question-generation,feat: Update generate_questions_auto.py for batch generation
+Jules:login,pre_2025-10,22-2/obsidian-sandbox-note,37,2025-09-24T03:45:27Z,google-labs-jules[bot],refactor-manager-interface,Refactor: Introduce Manager Interface and Load/Unload Mechanism
+Jules:login,pre_2025-10,SKHGit/my-inventory,1,2025-09-17T11:51:37Z,google-labs-jules[bot],feat/inventory-management-app,feat: Implement Electrical Shop Inventory Management Web App
+Jules:login,pre_2025-10,whytf/PrismLauncherCrack,2,2025-09-15T23:14:51Z,google-labs-jules[bot],fix-dynamic-release-tag,Fix: Use dynamic tag for commit-based releases
+Jules:login,pre_2025-10,tayglobal/kinyu-demo,34,2025-09-30T01:07:17Z,google-labs-jules[bot],fix-warrant-pricer-logic,Fix Floating Strike Warrant Pricing Logic
+Jules:login,pre_2025-10,Niloy441/Telegram_mini-bot,1,2025-09-21T17:09:14Z,google-labs-jules[bot],digital-product-store,feat: Create a digital product selling website
+Jules:login,pre_2025-10,yizaiwu/mini-cli-game-by-jules,2,2025-09-25T11:43:21Z,google-labs-jules[bot],feat/cli-adventure-game,docs: Update README.md with detailed project information
+Jules:login,pre_2025-10,kenvandine/photobooth,41,2025-09-28T20:07:35Z,google-labs-jules[bot],fix/camera-resolution,fix(camera): Improve resolution detection reliability
+Jules:login,pre_2025-10,abdirizakmohamedkurewa-web/Ludo-game,52,2025-09-26T16:55:24Z,google-labs-jules[bot],add-greedy-player,Fix: Add support for 'greedy' player role
+Jules:login,pre_2025-10,Vasavisama/expense,18,2025-09-29T04:36:18Z,google-labs-jules[bot],feature/update-registration-success-message,Fix: Update Date Format for CSV Import
+Jules:login,pre_2025-10,dywoq/dywoqlib,89,2025-09-13T17:29:57Z,google-labs-jules[bot],global.add-package-descriptions,"Pull request for issue #88"
+Jules:login,pre_2025-10,fabrizioxd8/QPhotos,22,2025-09-29T20:12:39Z,google-labs-jules[bot],fix/android-permission-crash,Feat: Enhance Pinch-to-Zoom and UI Theming
+Jules:login,pre_2025-10,alwazw/bb_modules,10,2025-09-14T16:34:16Z,google-labs-jules[bot],fix/bb-modules-launch-issues,Fix: Resolve Cascading Docker and Scripting Issues to Launch Application
+Jules:login,pre_2025-10,sridhar3akella/sridhar3akella.github.io,1,2025-09-20T11:49:05Z,google-labs-jules[bot],feature/website-smoothing-and-bug-fixes,Fix testimonial overlap bug and improve website performance
+Jules:login,pre_2025-10,Dharaneesh0745/sih-hackathon,63,2025-09-26T09:22:05Z,google-labs-jules[bot],feature/update-page-title,Update Page Title and Meta Tags
+Jules:login,pre_2025-10,vadymkalchenko-sudo/kanzlei-app,21,2025-09-22T17:57:08Z,google-labs-jules[bot],feat/file-system-storage,feat: Replace database with file system storage
+Jules:login,pre_2025-10,Parallel-7/slicer-meta,1,2025-09-24T13:10:23Z,google-labs-jules[bot],feature/add-professional-readme,docs: Create professional README
+AmazonQ:login,post_2025-10,Lowena-Cove/website,5,2025-11-03T09:05:13Z,amazon-q-developer[bot],Q-DEV-issue-4-1762160697,
+AmazonQ:login,post_2025-10,HyperionGray/opsechat,80,2025-12-28T12:44:24Z,amazon-q-developer[bot],Q-DEV-issue-38-1766925849,
+AmazonQ:login,post_2025-10,Dennsch/German-insult-generator,2,2025-10-07T05:26:59Z,amazon-q-developer[bot],Q-DEV-issue-1-1759814805,Create a react typescript application
+AmazonQ:login,post_2025-10,rayyanh192/ACM-Website,100,2025-10-26T19:29:19Z,amazon-q-developer[bot],Q-DEV-issue-96-1761506937,
+AmazonQ:login,post_2025-10,Voornaamenachternaam/hatsmith,99,2026-01-01T20:41:02Z,amazon-q-developer[bot],Q-DEV-issue-98-1767299919,
+AmazonQ:login,post_2025-10,rayyanh192/ACM-Website,16,2025-10-26T08:42:25Z,amazon-q-developer[bot],Q-DEV-issue-14-1761468130,
+AmazonQ:login,post_2025-10,kes0323/sample-qdev-movies,2,2025-12-03T00:31:54Z,amazon-q-developer[bot],Q-DEV-issue-1-1764721900,
+AmazonQ:login,post_2025-10,HyperionGray/DriverBuddy-7.4-plus,5,2025-12-09T19:46:57Z,amazon-q-developer[bot],Q-DEV-issue-3-1765309594,
+AmazonQ:login,post_2025-10,AlexanderWinkelmeier/Doc2FAQ,2,2025-12-13T15:24:25Z,amazon-q-developer[bot],Q-DEV-issue-1-1765639450,
+AmazonQ:login,post_2025-10,P4X-ng/pf-web-poly-compile-helper-runner,158,2025-12-05T19:30:46Z,amazon-q-developer[bot],Q-DEV-issue-152-1764963026,
+AmazonQ:login,post_2025-10,AlexMikhalochkin/home-server,28,2026-01-24T18:21:29Z,amazon-q-developer[bot],Q-DEV-issue-26-1769278826,
+AmazonQ:login,post_2025-10,940smiley/image-pro-cacaws_copy,22,2026-01-01T14:39:03Z,amazon-q-developer[bot],Q-DEV-issue-13-1767278297,
+AmazonQ:login,post_2025-10,P4X-ng/metasploit-framework-pynative,114,2025-12-21T06:21:39Z,amazon-q-developer[bot],Q-DEV-issue-101-1766297712,
+AmazonQ:login,post_2025-10,HyperionGray/metasploit-framework-pynative,209,2025-12-28T11:39:09Z,amazon-q-developer[bot],Q-DEV-issue-185-1766921337,
+AmazonQ:login,post_2025-10,P4X-ng/pf-web-poly-compile-helper-runner,86,2025-11-30T21:59:01Z,amazon-q-developer[bot],Q-DEV-issue-82-1764539923,
+AmazonQ:login,post_2025-10,Voornaamenachternaam/Filecryption,267,2026-01-11T20:14:42Z,amazon-q-developer[bot],Q-DEV-issue-266-1768162342,
+AmazonQ:login,post_2025-10,HyperionGray/metasploit-framework-pynative,221,2025-12-28T11:42:51Z,amazon-q-developer[bot],Q-DEV-issue-75-1766921539,
+AmazonQ:login,post_2025-10,RockwallJMC/piercedesk6,20,2026-01-29T06:18:55Z,amazon-q-developer[bot],Q-DEV-issue-19-1769667402,
+AmazonQ:login,post_2025-10,madhubalaji/qtest-python-app,101,2025-10-07T02:23:43Z,amazon-q-developer[bot],Q-DEV-issue-97-1759803809,New Feature - Add delete task in UI
+AmazonQ:login,post_2025-10,adagues/enedis-downloader,2,2026-02-14T08:08:37Z,amazon-q-developer[bot],Q-DEV-issue-1-1771056467,
+AmazonQ:login,post_2025-10,ogachi227/sample-qdev-movies,2,2025-12-02T01:57:35Z,amazon-q-developer[bot],Q-DEV-issue-1-1764640643,
+AmazonQ:login,post_2025-10,HyperionGray/metasploit-framework-pynative,217,2025-12-28T11:42:10Z,amazon-q-developer[bot],Q-DEV-issue-118-1766921535,
+AmazonQ:login,post_2025-10,kiwi-26/photo-studio-price-calculator,102,2025-12-25T14:59:44Z,amazon-q-developer[bot],Q-DEV-issue-101-1766674768,
+AmazonQ:login,post_2025-10,the-mirak/coffeeShop,3,2025-11-30T22:22:39Z,amazon-q-developer[bot],Q-DEV-issue-2-1764541343,
+AmazonQ:login,post_2025-10,OmniBlocks/scratch-gui,611,2026-01-02T19:49:46Z,amazon-q-developer[bot],Q-DEV-issue-525-1767382694,
+AmazonQ:login,post_2025-10,emeronb/sample-qdev-movies,2,2025-12-03T00:50:04Z,amazon-q-developer[bot],Q-DEV-issue-1-1764722988,
+AmazonQ:login,post_2025-10,Voornaamenachternaam/hatsmith,80,2025-12-30T16:17:09Z,amazon-q-developer[bot],Q-DEV-issue-77-1767111415,
+AmazonQ:login,post_2025-10,elxomar/OpenRPG,10,2025-11-01T12:05:00Z,amazon-q-developer[bot],Q-DEV-issue-9-1761998676,
+AmazonQ:login,post_2025-10,OmniBlocks/scratch-gui,597,2026-01-02T19:36:28Z,amazon-q-developer[bot],Q-DEV-issue-543-1767382523,
+AmazonQ:login,post_2025-10,HyperionGray/metasploit-framework-pynative,223,2025-12-28T11:43:15Z,amazon-q-developer[bot],Q-DEV-issue-77-1766921554,
+Codex:branch,pre_2025-10,fpoisson2/trackteur-analyse,129,2025-08-13T23:35:28Z,fpoisson2,codex/modifier-protocole-osmand-pour-recevoir-plusieurs-positions-78z7qf,Simplify OsmAnd JSON payload
+Codex:branch,pre_2025-10,Raktepan/ebook-gen,8,2025-08-16T07:01:12Z,Raktepan,codex/polish-markdown-preview-with-tailwind-typography,Polish markdown preview and form layout
+Codex:branch,pre_2025-10,Kira41/coin,114,2025-07-07T23:19:09Z,Kira41,codex/add-logging-to-all-php-files,Add uniform PHP error logging
+Codex:branch,pre_2025-10,seanwevans/SafeLang,11,2025-06-18T18:53:25Z,seanwevans,codex/add-test-for-python--m-safelang-subprocess,Add CLI subprocess tests
+Codex:branch,pre_2025-10,MihaiCristianCondrea/com.d4rk.englishwithlidia.plus,78,2025-09-15T14:12:58Z,MihaiCristianCondrea,codex/replace-player-with-error-message,Handle playback errors in lesson player
+Codex:branch,pre_2025-10,openceo2025/movieAgent,66,2025-07-16T00:18:23Z,openceo2025,codex/add-movie_prompt-and-video_length-columns,Add default video columns
+Codex:branch,pre_2025-10,Eilodon/Alarm1,412,2025-09-07T21:50:54Z,Eilodon,codex/fix-broken-relative-imports-in-project,Use package imports and add Firebase options
+Codex:branch,pre_2025-10,chipster6/NeoPrompt,16,2025-09-21T09:33:56Z,chipster6,codex/improve-documentation-clarity-and-consistency,Improve onboarding documentation
+Codex:branch,pre_2025-10,MontrealAI/AGI-Alpha-Agent-v0,1942,2025-06-09T21:30:49Z,MontrealAI,codex/read-openai_api_key-from-environment,[alpha_factory] load OPENAI_API_KEY for inspector bridge
+Codex:branch,pre_2025-10,DerMannMitHut/herrschaftderasche,21,2025-08-27T06:33:38Z,DerMannMitHut,codex/define-item-states-for-ashen_crown,Add wear/destroy crown states and commands
+Codex:branch,pre_2025-10,JKirito/test-fe,12,2025-05-19T23:37:42Z,JKirito,codex/refactor-methodologies-page-to-use-tailwindcss,Refactor methodologies page to tailwind
+Codex:branch,pre_2025-10,ThonkTank/Salt-Marcher,122,2025-09-25T12:21:15Z,ThonkTank,codex/uberarbeite-layout-editor-fur-obsidian-vault,feat: seed default Layout Editor blueprint in vault
+Codex:branch,pre_2025-10,daniellop87/syncgitconfig,3,2025-09-21T12:19:22Z,daniellop87,codex/fix-failed-syncgitconfig-service,Handle missing repo clone and sanitize watcher config
+Codex:branch,pre_2025-10,gari01234/PRMTTN,154,2025-07-28T21:52:44Z,gari01234,codex/replace-initskysphere-function,Replace sky sphere with Ganzfeld screen shader
+Codex:branch,pre_2025-10,PrometheusBlocks/orchestrator-core,11,2025-05-19T03:26:29Z,lwhela12,codex/fix-ui-display-and-scaffold-plan-error,Fix web UI planning display and scaffold handling
+Codex:branch,pre_2025-10,blackboxprogramming/blackroad-prism-console,330,2025-08-21T05:48:39Z,blackboxprogramming,codex/build-lucidia-brain-functionality,feat: add pipeline-based Lucidia brain
+Codex:branch,pre_2025-10,LBoy2006/fletapp1,97,2025-06-20T01:11:18Z,LBoy2006,codex/добавить-проверку-статуса-оплаты-пользователя,Add membership payment support
+Codex:branch,pre_2025-10,maxlaza411/pyghidra-mcp,2,2025-09-21T20:02:47Z,maxlaza411,codex/define-custom-exception-and-enhance-error-handling,Improve analysis incomplete error handling
+Codex:branch,pre_2025-10,blindsipher/CHILLLY,25,2025-08-27T03:15:50Z,blindsipher,codex/create-fastapi-server-in-topstepx_backend,Add FastAPI server and orchestrator integration
+Codex:branch,pre_2025-10,chian-chen/CVGIP-AAC,2,2025-06-21T05:18:15Z,chian-chen,codex/編寫搜尋最適參數的迴圈,Add parameter search script for CAAC frequency table
+Codex:branch,pre_2025-10,rogerhunter00-afk/cosy-laundry-game,20,2025-09-14T17:13:32Z,rogerhunter00-afk,codex/coerce-invalid-keys-to-zero-before-summing,Handle invalid weights in pickWeighted
+Codex:branch,pre_2025-10,Reon-Jin/edu_platform,80,2025-07-14T08:34:55Z,zilinwang617,codex/exerciseout,Fix exercise validation error
+Codex:branch,pre_2025-10,NicoRondan/lego_app,37,2025-08-25T06:18:53Z,NicoRondan,codex/add-add-to-cart-button-to-product-cards,feat(frontend): add add-to-cart button to product cards
+Codex:branch,pre_2025-10,geph-official/geph5,71,2025-05-23T15:42:43Z,nullchinchilla,codex/create-readme.md-for-geph5-components,"Add README docs for client, broker and exit"
+Codex:branch,pre_2025-10,pennaFedele/nextjs-starter,4,2025-06-07T21:18:37Z,pennaFedele,codex/update-import-path-for-extendedareacompetenza,Fix import path in cache-manager
+Codex:branch,pre_2025-10,theSystem85/gemini-rts-game,145,2025-07-23T21:57:07Z,theSystem85,codex/fix-infinite-money-glitch-on-sold-buildings,Fix building sell glitch
+Codex:branch,pre_2025-10,Murmeltier-86/protocol-cpp_ESPHome,30,2025-09-24T23:52:05Z,Murmeltier-86,codex/verify-functions-against-original-version-nlfetd,Restore original Jutta buffering and byte timing
+Codex:branch,pre_2025-10,Cobykenobi/D-DUA,450,2025-06-26T21:39:54Z,Cobykenobi,codex/add-translation-keys-and-update-components,Add translation keys and replace strings
+Codex:branch,pre_2025-10,cssius111/xianxia-world-engine,318,2025-07-05T01:43:17Z,cssius111,codex/update-/debug-handler-response,Update debug endpoint
+Codex:branch,pre_2025-10,weatheredclown/dustland,441,2025-08-27T00:56:14Z,weatheredclown,codex/fix-currently-failing-tests,fix: handle inline special moves in combat menus
+Codex:branch,post_2025-10,rdhforeclosureconqueror-sys/universal_pilot_project,9,2026-01-29T01:43:23Z,rdhforeclosureconqueror-sys,codex/generate-frontend-to-match-backend-models-tg46fb,
+Codex:branch,post_2025-10,gracebotly/flowetic-app,307,2026-03-02T09:12:00Z,gracebotly,codex/add-settings-tab-phase-1-features,
+Codex:branch,post_2025-10,Mac11q/Spondylog_V2,187,2026-02-05T14:41:12Z,Mac11q,codex/implement-exercise-section-modifications,
+Codex:branch,post_2025-10,fernandogarzaaa/appforge,22,2026-02-22T09:54:11Z,fernandogarzaaa,codex/inspect-self-evolution-cycle-action,
+Codex:branch,post_2025-10,alialnabulsi/AqlFlow-Software,1,2025-11-04T02:56:17Z,alialnabulsi,codex/remove-ai-generated-comments-and-document-project,
+Codex:branch,post_2025-10,andrewtran1991/SmartCare_RShinyApp,3,2025-11-04T14:27:49Z,andrewtran1991,codex/update-all-table-display-variables,
+Codex:branch,post_2025-10,pzhenzhou/leibrix,2,2025-10-17T05:49:46Z,pzhenzhou,codex/review-master-architecture-design-document,
+Codex:branch,post_2025-10,Chitaoji/validating,13,2026-03-05T05:45:48Z,Chitaoji,codex/fix-error-message-format-and-logging,
+Codex:branch,post_2025-10,lucaspecout/ope-protec,77,2026-02-16T20:42:25Z,lucaspecout,codex/improve-map-ergonomics,
+Codex:branch,post_2025-10,ArcanaDoble/fichas-rol-app,955,2025-10-25T21:33:23Z,ArcanaDoble,codex/add-dashed-thick-line-connection-between-nodes,
+Codex:branch,post_2025-10,fpgalarce-creator/Pygexintores,2,2025-11-28T05:37:43Z,fpgalarce-creator,codex/apply-visual/ux-patch-to-existing-site,
+Codex:branch,post_2025-10,Kriegspiel/content,43,2026-04-05T04:49:34Z,Fillll,codex/update-bot-blog-2026-04-05,
+Codex:branch,post_2025-10,oniemiddle/ProjectEyeX,2,2026-02-12T07:17:07Z,oniemiddle,codex/plan-migration-to-avaloniaui-pserur,
+Codex:branch,post_2025-10,fermga/TNFR-Python-Engine,1753,2025-10-18T20:08:53Z,fermga,codex/refactor-neighbor-accumulation-functions,
+Codex:branch,post_2025-10,nayoug/shu-date,39,2026-03-29T02:56:32Z,hu-border-collie,codex/issue-24-email-normalization,
+Codex:branch,post_2025-10,PyromanANR/block-puzzle-sudoku,2,2026-02-23T03:57:28Z,PyromanANR,codex/refactor-game-logic-and-ui-in-godot-bvqzuq,
+Codex:branch,post_2025-10,charlyandresarevalo-star/La-Rosetta,4,2026-03-12T17:56:38Z,charlyandresarevalo-star,codex/create-static-website-for-la-rosetta-yzfk4b,
+Codex:branch,post_2025-10,EmnaBek/interface_stage,30,2026-04-03T10:36:11Z,EmnaBek,codex/fix-compilation-errors-in-qr_token_validation_page-ocypjr,
+Codex:branch,post_2025-10,abuhammer/comic-translater,4,2025-10-05T23:24:14Z,abuhammer,codex/update-ui-in-tools_page.py-ujm1pv,Add toolbar image enhancement action
+Codex:branch,post_2025-10,toukanno/pokemon-custom-battle-simulator,4,2026-03-15T16:03:56Z,toukanno,codex/review-all-branches,
+Codex:branch,post_2025-10,seeker71/Coherence-Network,18,2026-02-15T05:15:39Z,seeker71,codex/health-uptime-web-autorefresh,
+Codex:branch,post_2025-10,srrmntrjn/movie-belli,5,2026-01-05T03:52:33Z,srrmntrjn,codex/add-username-creation-on-first-sign-in,
+Codex:branch,post_2025-10,mtobeery/Nova,1376,2026-01-07T05:58:52Z,mtobeery,codex/update-phase0-paths-and-references,
+Codex:branch,post_2025-10,youssef9449/TDF.2,10,2026-02-27T15:25:16Z,youssef9449,codex/fix-windows-launch-failure-problems-in-tdfmaui,
+Codex:branch,post_2025-10,dluceray/PDF-search,13,2026-01-21T10:17:40Z,dluceray,codex/fix-directory-update-issue-4z01y2,
+Codex:branch,post_2025-10,naessrobert-ui/prisanalyse,75,2026-03-16T10:38:04Z,naessrobert-ui,codex/develop-gain-calculation-feature-nkg8p3,
+Codex:branch,post_2025-10,IanTheMitten/SchoolStoreCasher,24,2026-03-27T05:35:51Z,IanTheMitten,codex/enable-scrolling-on-student-list-and-group-organization,
+Codex:branch,post_2025-10,ngoctinn/spa-customer-care-platform,42,2025-10-05T16:04:23Z,ngoctinn,codex/review-front-end-navigation-for-login-and-signup,Use Next.js Link for auth navigation
+Codex:branch,post_2025-10,flimmbark-source/Rogue-Wheel,433,2025-10-07T20:04:51Z,flimmbark-source,codex/extend-reserveboost-for-lane-selection,Allow reserve boost skills to target any friendly lane
+Codex:branch,post_2025-10,ezskape/TX-Calc,94,2026-01-02T01:36:34Z,ezskape,codex/improve-duplicate-email-handling,
+Devin:login,pre_2025-10,arthur-telles3/testing-devin-code-migrations-scala,2,2024-04-22T20:08:40Z,devin-ai-integration[bot],domain-migration-2024-04-22-20-07,Domain migration for SparkOps to SubdomainOps
+Devin:login,pre_2025-10,afares8/Cortana,26,2025-05-04T03:33:15Z,devin-ai-integration[bot],devin/1746327982-architecture-refactoring,Refactor: Implement Modular Microservice Architecture
+Devin:login,pre_2025-10,GravitonINC/eliza,3,2024-12-25T18:59:57Z,devin-ai-integration[bot],devin/1735140116-add-privy-plugin,feat: add privy server wallet integration
+Devin:login,pre_2025-10,basitwali1x/DocuGen-Ai,1,2025-08-11T21:00:36Z,devin-ai-integration[bot],devin/1754936460-docugen-ai-setup,Implement Complete Video Generation Pipeline with Multi-Format Support and Social Media Integration
+Devin:login,pre_2025-10,SRWS-PSG/search-formula-developper,6,2025-08-30T02:33:26Z,devin-ai-integration[bot],devin/1756521125-update-dialog-rct-filter,Update Dialog RCT filter with comprehensive version
+Devin:login,pre_2025-10,crewAIInc/crewAI,2649,2025-04-19T23:08:35Z,devin-ai-integration[bot],devin/1745103821-fix-planning-llm-auth,"Fix issue #2647: Planning LLM authentication with custom providers"
+Devin:login,pre_2025-10,Lightiam/emi.ai,1,2025-03-25T10:28:40Z,devin-ai-integration[bot],devin/1742892652-emilist-implementation,Implement Emilist platform UI with exact match to reference design
+Devin:login,pre_2025-10,KLM-Solutions/dev-003,5,2025-04-02T06:50:19Z,devin-ai-integration[bot],devin/1743577344-hide-shop-page,Hide shop page and fix static export build
+Devin:login,pre_2025-10,pankona/makasero,34,2025-04-27T07:34:05Z,devin-ai-integration[bot],devin/1745739110-split-tests-by-endpoint,テストファイルをエンドポイント毎に分割
+Devin:login,pre_2025-10,drivly/payload,9,2025-05-14T07:49:14Z,devin-ai-integration[bot],devin/PAYLOAD-4-1747208910,Fix import path issues in eslint.config.js files (PAYLOAD-4)
+Devin:login,pre_2025-10,Mateoloperaortiz/automatizaciondeads,133,2025-04-06T22:44:34Z,devin-ai-integration[bot],devin/1743978982-database-query-optimization,Refactor: Optimizar consultas de base de datos con joins y añadir índices
+Devin:login,pre_2025-10,GetCodifyAI/cut-dry-automation-framework,565,2025-09-21T18:24:09Z,devin-ai-integration[bot],devin/1758478486-dot-tc-1825-automation,[Devin] Add DOT-TC-1825: Automated test from AIO TCMS
+Devin:login,pre_2025-10,amorin24/llmproxy-java,4,2025-04-30T14:43:25Z,devin-ai-integration[bot],devin/1746024023-docker-config,Add Docker support and update documentation
+Devin:login,pre_2025-10,GlareDB/glaredb,3758,2025-05-02T17:53:40Z,devin-ai-integration[bot],devin/1746207876-static-function-set-refs,Use static references for function sets in catalog entries
+Devin:login,pre_2025-10,docs-of-all-trades/varter,1,2025-05-19T11:15:46Z,devin-ai-integration[bot],devin/1747653300-wiki-skeleton,Create Wiki Skeleton Structure
+Devin:login,pre_2025-10,calcom/cal.com,21373,2025-05-17T03:04:56Z,devin-ai-integration[bot],devin/1747450649-optimize-slot-generation,perf: optimize O(n²) algorithms in slot generation
+Devin:login,pre_2025-10,faros-ai/airbyte-connectors,2017,2025-05-08T15:39:53Z,devin-ai-integration[bot],devin/1746718510-add-asCodeOwner-to-pr-review-request,FAI-15835: Add asCodeOwner field to vcs_PullRequestReviewRequest writes
+Devin:login,pre_2025-10,VishwamAI/To-dolist-agent,3,2024-06-19T04:05:16Z,devin-ai-integration[bot],feature/auto-tasking,Implement Auto-Tasking Feature
+Devin:login,pre_2025-10,crewAIInc/crewAI,2165,2025-02-19T15:23:57Z,devin-ai-integration[bot],devin/1739978180-fix-agent-knowledge-embedder,fix: Agent-level knowledge sources with non-OpenAI embedders
+Devin:login,pre_2025-10,drivly/primitives.org.ai,76,2025-05-06T09:52:22Z,devin-ai-integration[bot],devin/AI-29-1746524447,AI-29: Add ai-business package with business types and functions
+Devin:login,pre_2025-10,3t14/devin-novels,3,2025-02-01T06:25:31Z,devin-ai-integration[bot],devin/1738391102-create-having-a-cat-novel,feat: add 'ねこ飼いたい' (I Want to Have a Cat) novel
+Devin:login,pre_2025-10,vijay-Jonathan/dev-portfolio,1,2025-08-19T01:23:56Z,devin-ai-integration[bot],devin/1755566542-certifications-section,Add Certifications section (after Expertise) and navigation link
+Devin:login,pre_2025-10,different-ai/file-organizer-2000,327,2025-02-18T18:06:30Z,devin-ai-integration[bot],devin/1739901701-add-ollama-deepseek,feat: add local LLM (deepseek) support for folder suggestions
+Devin:login,pre_2025-10,Mateoloperaortiz/ProyectoIntegrador1,40,2025-04-21T03:34:10Z,devin-ai-integration[bot],devin/1745206407-gemini-video-generation,Implement video generation using Veo via Gemini API
+Devin:login,pre_2025-10,COG-GTM/metamask-mobile,39,2025-09-14T07:51:50Z,devin-ai-integration[bot],devin/1757835281-docs-readme,docs(readme): comprehensive README overhaul with setup validation
+Devin:login,pre_2025-10,spencerhoffman/survivor-league-app,10,2025-06-29T01:51:34Z,devin-ai-integration[bot],devin/1751158118-comprehensive-test-suite,Add comprehensive test suite covering all features across 10 teams over 10 weeks
+Devin:login,pre_2025-10,AgnusSOCO/solupresta,16,2025-01-31T07:11:13Z,devin-ai-integration[bot],devin/1738307345-fix-path-config,fix: standardize Python path configuration and imports
+Devin:login,pre_2025-10,VanillaSwap-finance/vanillaswap-app,14,2025-04-20T07:58:07Z,devin-ai-integration[bot],devin/1745135867-fix-xrplmeta-token-test,Fix XRPLMeta token API test
+Devin:login,pre_2025-10,raylac-com/Raylac,52,2025-01-11T02:35:22Z,devin-ai-integration[bot],devin/1736561738-multi-lang,feat: add multi-language support for text
+Devin:login,pre_2025-10,liam-hq/liam,1071,2025-04-01T11:15:04Z,devin-ai-integration[bot],devin/1743505969-refactor-save-pr-payload,Refactor SavePullRequestWithProjectPayload to remove redundant repository information
+Jules:login,post_2025-10,CangioUni/traefik-totp-plugin,5,2025-12-16T21:56:46Z,google-labs-jules[bot],jules/fix-session-and-add-ip-exclusion-6865170797801025166,
+Jules:login,post_2025-10,Vibe-coding-nvm-delete-repo/credit,10,2026-01-06T23:37:38Z,google-labs-jules[bot],jules/global-width-1200-6352669525287335808,
+Jules:login,post_2025-10,Lokkuchakreshkumar/KLU-DESK,3,2025-10-05T11:39:57Z,google-labs-jules[bot],add-readme,Jules PR
+Jules:login,post_2025-10,Kyle6012/plagiarism-detection,17,2025-12-28T23:42:53Z,google-labs-jules[bot],jules/audit-fixes-12475-10697165116060755033,
+Jules:login,post_2025-10,CoReason-AI/coreason-assay,17,2026-01-11T16:05:10Z,google-labs-jules[bot],jules/assessment-engine-9595412813605987607,
+Jules:login,post_2025-10,skojaku/tobibtex,4,2025-10-02T15:15:04Z,google-labs-jules[bot],docs/update-readme-alfred-focus,"Pull request for issue #3"
+Jules:login,post_2025-10,SumanthUdupi/GymApp,3,2025-10-05T14:07:32Z,google-labs-jules[bot],feature/exercise-library-ui-cleanup,feat: Add exercise library and enhance UI
+Jules:login,post_2025-10,yuichiinumaru/cryptosentinel-v1,139,2025-12-19T12:22:44Z,google-labs-jules[bot],jules/2511-14460-research-analysis-12494908275262746646,
+Jules:login,post_2025-10,rpenn123/pm_automation_v1,61,2025-10-07T18:44:25Z,google-labs-jules[bot],fix-dashboard-logic,Fix Dashboard Data Aggregation and Logic
+Jules:login,post_2025-10,rpenn123/pm_automation_v1,69,2025-10-07T20:26:40Z,google-labs-jules[bot],fix/deployment-syntax-error-1,fix: Correct syntax error in Dashboard.gs
+Jules:login,post_2025-10,lgalvao/sgc,11,2025-10-08T02:37:37Z,google-labs-jules[bot],fix/compilation-errors,Fix compilation errors after translation
+Jules:login,post_2025-10,mulkymalikuldhrs/studio,2,2025-12-26T13:07:47Z,google-labs-jules[bot],jules/project--improvement-246473281934064412,
+Jules:login,post_2025-10,bkolacinski/AJI,1,2026-01-18T17:47:34Z,google-labs-jules[bot],jules/svelte-shop-implementation-6448714830435872574,
+Jules:login,post_2025-10,yuichiinumaru/cryptosentinel-v1,169,2025-12-19T12:43:58Z,google-labs-jules[bot],jules/2504.02495-analysis-8201396694578955712,
+Jules:login,post_2025-10,BrightBoost-Tech/options-trading-companion,274,2025-12-17T00:07:12Z,google-labs-jules[bot],jules/enforce-shared-expiry-2898468303509560931,
+Jules:login,post_2025-10,yuichiinumaru/cryptosentinel-v1,92,2025-12-19T01:14:56Z,google-labs-jules[bot],jules/process-paper-2312-01498-14492982129808934218,
+Jules:login,post_2025-10,D86petersen/CCHendrix,2,2025-10-06T16:54:51Z,google-labs-jules[bot],refactor-modern-design,Refactor website with a modern and professional design
+Jules:login,post_2025-10,bizkut/EVE-Online-Market-Analyzer-API,6,2025-10-06T06:14:15Z,google-labs-jules[bot],feat/frontend-dashboard,feat: Add frontend dashboard for EVE Online Market Analyzer
+Jules:login,post_2025-10,MovieAddict88/folio3,7,2025-10-01T01:13:49Z,google-labs-jules[bot],feature/payment-system,Implement Payment Processing and Notification System
+Jules:login,post_2025-10,Mallen220/PedroPathingVisualizer,240,2026-01-13T13:16:15Z,google-labs-jules[bot],jules/add-math-tests-3916758719923683810,
+Jules:login,post_2025-10,srinathmurthy-dev/SlideFormatter,19,2026-01-20T21:43:46Z,google-labs-jules[bot],jules/fix-create-shape-properties-error-12969833207663889869,
+Jules:login,post_2025-10,BrianCLong/summit,15490,2026-01-03T07:38:17Z,google-labs-jules[bot],jules/sprint-n-3-observability-rollback-7409632507250376386,
+Jules:login,post_2025-10,BrianCLong/summit,13286,2025-12-04T02:44:00Z,google-labs-jules[bot],jules/harmonize-system,
+Jules:login,post_2025-10,ochowei/rn-inc-game,148,2025-10-03T07:57:53Z,google-labs-jules[bot],feature/move-buttons-to-fab,"Pull request for issue #147"
+Jules:login,post_2025-10,Kashiyyy/AutodartsTouch,43,2025-10-04T17:32:29Z,google-labs-jules[bot],preserve-extension-on-update,fix: Correctly preserve 'extensions' directory on update
+Jules:login,post_2025-10,AlbiDR/Clash-Manager,246,2026-03-17T06:09:15Z,google-labs-jules[bot],jules/sync-root-readme-versions-8541608762508035017,
+Jules:login,post_2025-10,jburnhams/tube-ts,1,2025-12-28T18:13:12Z,google-labs-jules[bot],jules/tube-ts-setup-104431653297752183,
+Jules:login,post_2025-10,jakubMitura14/horizon_disentangled,20,2025-10-02T16:52:24Z,google-labs-jules[bot],refactor-grant-proposal,Finalize Grant Proposal with All Structural and Content Refinements
+Jules:login,post_2025-10,heimgewebe/sichter,180,2025-12-11T17:06:13Z,google-labs-jules[bot],jules/fix-shfmt-format-8346272615234246034,
+Jules:login,post_2025-10,aliaksandr-haurylau-godel/opencode-a2a,2,2025-12-26T09:02:36Z,google-labs-jules[bot],jules/fix-a2a-protocol-path-15113925564459177941,
+Devin:login,post_2025-10,airbytehq/airbyte,72914,2026-02-06T00:42:01Z,devin-ai-integration[bot],devin/1770338185-populate-api-docs,
+Devin:login,post_2025-10,xiaori100-png/Coach-DraftPick-Hok,1,2026-04-03T04:02:15Z,devin-ai-integration[bot],devin/1775188650-fix-ui-recommendations,
+Devin:login,post_2025-10,muhsiltomsher-cloud/asl-frontend,152,2025-12-27T22:01:25Z,devin-ai-integration[bot],devin/1766872788-checkout-mobile-overflow-fix,
+Devin:login,post_2025-10,COG-GTM/oneDNN,13,2025-10-30T01:42:46Z,devin-ai-integration[bot],devin/1761787378-fix-aarch64-f16-postops,
+Devin:login,post_2025-10,tcooperam-droid/dominio-pro-auto,4,2026-04-02T22:50:52Z,devin-ai-integration[bot],devin/update-skills-1775170249,
+Devin:login,post_2025-10,airbytehq/airbyte,76111,2026-04-07T00:14:02Z,devin-ai-integration[bot],devin/1775520751-docs-source-bing-ads,
+Devin:login,post_2025-10,COG-GTM/angular-jasmine-karma-demo,31,2026-01-23T23:01:56Z,devin-ai-integration[bot],devin/1769209095-angular-to-react-item,
+Devin:login,post_2025-10,Cognition-Partner-Workshops/client-timesheet-app,156,2026-02-03T09:35:19Z,devin-ai-integration[bot],devin/1770111076-fix-frontend-eslint-errors,
+Devin:login,post_2025-10,core314system-lgtm/core314-platform,183,2025-12-19T16:34:48Z,devin-ai-integration[bot],devin/1766161913-integration-hub-ux-copy,
+Devin:login,post_2025-10,alexenos/teetime,4,2025-12-14T22:46:36Z,devin-ai-integration[bot],devin/1765752339-4player-tbd-guests,
+Devin:login,post_2025-10,aiDotEngineer/aiecode2025,42,2025-11-15T15:02:40Z,devin-ai-integration[bot],devin/1763218841-update-session-title,
+Devin:login,post_2025-10,tsubasa-shinohara/AVIENTER_2D_1015am,1,2025-10-14T22:33:17Z,devin-ai-integration[bot],devin/1760478814-fix-drag-force-direction,
+Devin:login,post_2025-10,weihngo/VoxPoser,2,2026-04-15T08:35:00Z,devin-ai-integration[bot],devin/1776241421-test-qwen-integration,
+Devin:login,post_2025-10,alvdtt/Devin_ALG_1,2,2026-02-18T10:57:11Z,devin-ai-integration[bot],devin/1771412187-jira-config,
+Devin:login,post_2025-10,shebah2047-sys/PX4-Autopilot-private,27,2025-12-20T11:53:38Z,devin-ai-integration[bot],devin/1766231465-add-rocket-profile,
+Devin:login,post_2025-10,SilvaGabriel011/tcc2,71,2025-12-08T16:00:58Z,devin-ai-integration[bot],devin/1765209602-run-demo-visual-section,
+Devin:login,post_2025-10,01fe23bcs183/workdohrms,1,2025-12-18T09:56:26Z,devin-ai-integration[bot],devin/1766049800-service-oriented-refactor,
+Devin:login,post_2025-10,satwik-cog/Express_CRUD,3,2025-11-17T22:29:55Z,devin-ai-integration[bot],devin/1763418329-complete-postgresql-migration,
+Devin:login,post_2025-10,Cognition-Partner-Workshops/app_dotnet-angular-monolith,123,2026-03-25T14:23:29Z,devin-ai-integration[bot],devin/1774448551-inventory-decomposition-monolith,
+Devin:login,post_2025-10,PrefectHQ/prefect,20430,2026-01-27T17:57:45Z,devin-ai-integration[bot],devin/1769536428-amplitude-api-key-build-config,
+Devin:login,post_2025-10,manasisoman/marketplace,4,2026-03-04T05:41:09Z,devin-ai-integration[bot],devin/1772602729-product-detail-page,
+Devin:login,post_2025-10,COG-GTM/Springboot-BankApp,78,2026-01-08T15:27:48Z,devin-ai-integration[bot],devin/1767885905-java-22-upgrade,
+Devin:login,post_2025-10,muhsiltomsher-cloud/asl-frontend,181,2025-12-30T12:39:29Z,devin-ai-integration[bot],devin/1767098111-builder-page-wcpa-design,
+Devin:login,post_2025-10,aiDotEngineer/aiecode2025,383,2026-03-25T01:06:51Z,devin-ai-integration[bot],devin/1774400581-add-plenary-track,
+Devin:login,post_2025-10,aiDotEngineer/aiecode2025,395,2026-03-26T06:02:17Z,devin-ai-integration[bot],devin/1774504847-rl-nabors-source-photo,
+Devin:login,post_2025-10,jhacksman/FeedEater,167,2026-02-19T01:18:21Z,devin-ai-integration[bot],devin/1771463676-system-storage,
+Devin:login,post_2025-10,jia-cog/invoice-application,43,2026-02-19T18:16:37Z,devin-ai-integration[bot],devin/1771524841-expand-backend-testing-invoices,
+Devin:login,post_2025-10,amarazzi/1oo1,1,2026-02-25T20:13:03Z,devin-ai-integration[bot],devin/1772050341-history-label,
+Devin:login,post_2025-10,launchdarkly/go-configtypes,22,2026-04-10T20:20:05Z,devin-ai-integration[bot],mk/sdk-2163/stale-workflows,
+Devin:login,post_2025-10,mrpranavr/Nike-ecommerce-website,1,2026-02-25T07:56:21Z,devin-ai-integration[bot],devin/1772006106-fix-missing-products-migration,
+AmazonQ:login,pre_2025-10,SfireInc/DevOps,2,2025-05-13T15:25:34Z,amazon-q-developer[bot],Q-DEV-issue-1-1747149914,Code review for production purpose
+AmazonQ:login,pre_2025-10,Megafriday/scraping_nodejs,11,2025-05-09T09:44:26Z,amazon-q-developer[bot],Q-DEV-issue-10-1746783854,更新する必要がある
+AmazonQ:login,pre_2025-10,ren8k/amazon-q-dev-integration,3,2025-05-07T01:07:31Z,amazon-q-developer[bot],Q-DEV-issue-2-1746580037,Amazon Bedrock Knowledge Basesのサンプルコードを作成して
+AmazonQ:login,pre_2025-10,moritalous/genu-with-qdev,2,2025-05-24T09:06:31Z,amazon-q-developer[bot],Q-DEV-issue-1-1748077569,doc text fix
+AmazonQ:login,pre_2025-10,framarqu001/AramGoV2,2,2025-06-06T16:24:08Z,amazon-q-developer[bot],Q-DEV-issue-1-1749227033,Doesnt cache long enough
+AmazonQ:login,pre_2025-10,parasjain01/amazon-mq-samples,2,2025-05-31T17:54:20Z,amazon-q-developer[bot],Q-DEV-issue-1-1748714043,Cloudformation Template
+AmazonQ:login,pre_2025-10,kohei39san/mystudy-handson,212,2025-07-23T02:49:54Z,amazon-q-developer[bot],Q-DEV-issue-209-1753238961,週次README更新 (2025-07-23)
+AmazonQ:login,pre_2025-10,bagg3rs/clonal-succession,20,2025-07-10T22:10:34Z,amazon-q-developer[bot],Q-DEV-issue-19-1752185413,Default change 
+AmazonQ:login,pre_2025-10,akkodis-aws/bedrock-chat,2,2025-05-05T17:27:12Z,amazon-q-developer[bot],Q-DEV-issue-1-1746466006,Implement an MCP tool experience
+AmazonQ:login,pre_2025-10,yurimarimo/flaskr,4,2025-06-05T06:08:37Z,amazon-q-developer[bot],Q-DEV-issue-3-1749103703,Add a new method to remove an entry
+AmazonQ:login,pre_2025-10,Dennsch/Beachdriving,41,2025-09-05T11:48:29Z,amazon-q-developer[bot],Q-DEV-issue-40-1757072894,add phone numbers
+AmazonQ:login,pre_2025-10,ryoto1993/flaskr,5,2025-06-05T06:24:24Z,amazon-q-developer[bot],Q-DEV-issue-4-1749104652,Need to add wiki
+AmazonQ:login,pre_2025-10,hamiltop/pgdproxy,4,2025-05-07T04:54:39Z,amazon-q-developer[bot],Q-DEV-issue-3-1746593666,Fix tests
+AmazonQ:login,pre_2025-10,evermbr/aws-java-sample-app,6,2025-09-10T19:56:39Z,amazon-q-developer[bot],Q-DEV-issue-5-1757534183,Implement Movie Rating and Review System
+AmazonQ:login,pre_2025-10,genaforvena/watching_u_watching,45,2025-07-12T19:28:14Z,amazon-q-developer[bot],Q-DEV-issue-44-1752348471,Fully Automated Dual Bias Audit (Names + Articles) with LLM Endpoint Support
+AmazonQ:login,pre_2025-10,smarlonfabiano/new,22,2025-07-16T14:05:18Z,amazon-q-developer[bot],Q-DEV-issue-16-1752674705,json
+AmazonQ:login,pre_2025-10,Bouchedakh-Firas/Q_Transform_Java,18,2025-06-27T09:04:56Z,amazon-q-developer[bot],Q-DEV-issue-17-1751015076,Build failed Issue
+AmazonQ:login,pre_2025-10,nofukuyo/flaskr,4,2025-06-05T06:13:01Z,amazon-q-developer[bot],Q-DEV-issue-3-1749103968,Add a new method to remove an entry
+AmazonQ:login,pre_2025-10,VictorFoged/amazonQ-demo,23,2025-06-26T07:53:44Z,amazon-q-developer[bot],Q-DEV-issue-12-1750924409,[EXT] andel - joke
+AmazonQ:login,pre_2025-10,hustshawn/strands-agent-examples,2,2025-05-23T14:31:13Z,amazon-q-developer[bot],Q-DEV-issue-1-1748010652,Create devcontainers configuration
+AmazonQ:login,pre_2025-10,Bouchedakh-Firas/Q_Transform_Java,16,2025-06-27T08:30:02Z,amazon-q-developer[bot],Q-DEV-issue-15-1751012985,Testing restaurant api
+AmazonQ:login,pre_2025-10,coderxlab/amazonq-dashboard,12,2025-05-20T08:59:19Z,amazon-q-developer[bot],Q-DEV-issue-11-1747731552,Implement Enhanced Acceptance Visualizations
+AmazonQ:login,pre_2025-10,timwukp/agentic-ai-agent-voice-to-voice,8,2025-05-07T08:05:12Z,amazon-q-developer[bot],Q-DEV-issue-7-1746605095,use Amazon Bedrock and Amazon Nova Sonic model
+AmazonQ:login,pre_2025-10,vibhhu-amazon/demo-repo-amazon-q,12,2025-06-25T17:42:35Z,amazon-q-developer[bot],Q-DEV-issue-11-1750873342,hello world
+AmazonQ:login,pre_2025-10,RogerRoger23344/empty-test,21,2025-05-15T21:26:20Z,amazon-q-developer[bot],Q-DEV-issue-20-1747344368,Feature Request: Edit documentation
+AmazonQ:login,pre_2025-10,josenunesc10/test-repo,7,2025-08-02T21:14:42Z,amazon-q-developer[bot],Q-TRANSFORM-issue-6-1754168321,"Resolve ""Upgrade Java"""
+AmazonQ:login,pre_2025-10,610v4nn1/iedit,2,2025-05-17T20:59:38Z,amazon-q-developer[bot],Q-DEV-issue-1-1747515561,Implement iedit
+AmazonQ:login,pre_2025-10,cobbdan/mcp-test,2,2025-05-22T19:51:00Z,amazon-q-developer[bot],Q-DEV-issue-1-1747943443,Add Lorem Ipsum Text Generator Tool
+AmazonQ:login,pre_2025-10,clouddev-code/git-test,2,2025-05-16T07:14:08Z,amazon-q-developer[bot],Q-DEV-issue-1-1747379636,エラーハンドルを実装
+AmazonQ:login,pre_2025-10,coderxlab/amazonq-dashboard,22,2025-05-21T11:01:17Z,amazon-q-developer[bot],Q-DEV-issue-21-1747825257,Create Prompt Analysis Dashboard
+Cursor:branch,pre_2025-10,Aro-Software-Group/Aro-Screen-Recording,3,2025-06-30T20:16:59Z,Aro-Takada,cursor/improve-stability-and-redesign-6129,Improve stability and redesign
+Cursor:branch,pre_2025-10,bhattjithegamer/brick_breaker_mobile,1,2025-07-27T09:13:28Z,bhattjithegamer,cursor/create-simple-login-page-html-and-css-e440,Create simple login page html and css
+Cursor:branch,pre_2025-10,VanshSUTHAR/CN--Project,1,2025-08-13T10:17:10Z,VanshSUTHAR,cursor/generate-comprehensive-api-documentation-ead0,Generate comprehensive api documentation
+Cursor:branch,pre_2025-10,3ezar66/mobilebank,1,2025-08-13T04:13:35Z,3ezar66,cursor/set-initial-financial-parameters-with-random-value-3de3,Set initial financial parameters with random value
+Cursor:branch,pre_2025-10,Sameerpinjari-24/CrisisWatch,1,2025-07-11T16:16:42Z,Sameerpinjari-24,cursor/develop-real-time-disaster-response-platform-fa7d,Develop real-time disaster response platform
+Cursor:branch,pre_2025-10,roiilan/Open-AudioAI,24,2025-08-10T14:42:30Z,roiilan,cursor/enhance-saved-transcripts-ui-and-ux-8010,Enhance saved transcripts UI and UX
+Cursor:branch,pre_2025-10,mikelhmltn2/Thee-Cigar-Maestro,39,2025-07-28T16:18:51Z,mikelhmltn2,cursor/setup-build-test-lint-and-mobile-menu-8379,"Setup build, test, lint, and mobile menu"
+Cursor:branch,pre_2025-10,knoticoo/kings,6,2025-08-29T09:20:18Z,knoticoo,cursor/list-available-database-players-f273,List available database players
+Cursor:branch,pre_2025-10,DaniilMusin/polymarket_SX,30,2025-07-19T21:27:48Z,DaniilMusin,cursor/bc-c937c3b4-1d8f-4f16-91f2-32e815c5e9f3-0a8b,Исправить все ошибки проекта
+Cursor:branch,pre_2025-10,skurtyyskirts/skurtyytewlkit,15,2025-08-10T07:07:01Z,skurtyyskirts,cursor/investigate-omniverse-connection-issues-for-rtx-remix-bdc7,Investigate omniverse connection issues for RTX Remix
+Cursor:branch,pre_2025-10,Aladdin011/Builder-aura-field,22,2025-08-15T02:38:47Z,Aladdin011,cursor/investigate-webpage-loading-failures-after-deployment-cea1,Investigate webpage loading failures after deployment
+Cursor:branch,pre_2025-10,abo-bahr-alqershi/supperBo,35,2025-08-03T03:16:04Z,abo-bahr-alqershi,cursor/fix-drag-and-drop-configuration-e1ee,Fix drag and drop configuration
+Cursor:branch,pre_2025-10,qaliblog/ReTerminal,15,2025-08-14T04:01:55Z,qaliblog,cursor/debug-hidden-terminal-creation-for-chat-and-git-a7ce,Debug hidden terminal creation for chat and git
+Cursor:branch,pre_2025-10,Zion-Holdings/zion.app,19435,2025-09-16T02:04:24Z,Zion-support,cursor/create-and-deploy-new-content-fdcc,Create and deploy new content
+Cursor:branch,pre_2025-10,AuraquanTech/TEMP-DEMO,2,2025-09-26T04:57:57Z,AuraquanTech,cursor/fix-background-agent-identification-6e0c,Fix background agent identification
+Cursor:branch,pre_2025-10,objectisundefined/epic-database-in-js,8,2025-07-30T04:53:40Z,objectisundefined,cursor/analyze-and-optimize-performance-c566,Analyze and optimize performance
+Cursor:branch,pre_2025-10,davide97l/ai-video-generator,3,2025-07-05T12:24:00Z,cibbia,cursor/switch-to-local-llm-for-text-to-audio-b335,Cursor/switch to local llm for text to audio b335
+Cursor:branch,pre_2025-10,wandb/docs,1626,2025-09-10T22:44:33Z,mdlinville,cursor/fix-docs-issue-1752-0d89,Fix docs issue 1752
+Cursor:branch,pre_2025-10,Zion-Holdings/zion.app,17526,2025-09-14T16:12:53Z,Zion-support,cursor/create-and-deploy-new-content-d24e,Create and deploy new content
+Cursor:branch,pre_2025-10,megabuddies/Buddy-Runner,68,2025-08-18T13:41:28Z,megabuddies,cursor/optimize-game-transaction-handling-2157,Optimize game transaction handling
+Cursor:branch,pre_2025-10,hexw0413/codebuddy-test,3,2025-09-13T08:56:15Z,hexw0413,cursor/csgo2-item-trading-bot-development-9502,Csgo2 item trading bot development
+Cursor:branch,pre_2025-10,Jash-Khunt/Ai_Clone,3,2025-08-22T10:02:09Z,Jash-Khunt,cursor/parse-and-render-generated-worksheet-e840,Refactor match question handling and section type detection
+Cursor:branch,pre_2025-10,Ramin-cs/RezaRepo,9,2025-09-03T21:58:50Z,Ramin-cs,cursor/comprehensive-recon-and-info-gathering-tool-3e6a,Comprehensive recon and info gathering tool
+Cursor:branch,pre_2025-10,CodyTVWeber/singing-learning-track,9,2025-08-27T02:44:15Z,CodyTVWeber,cursor/simplify-lessons-for-beginner-comprehension-b198,Simplify lessons for beginner comprehension
+Cursor:branch,pre_2025-10,MichaelWBrennan/FightingGameTest,104,2025-08-28T07:00:06Z,MichaelWBrennan,cursor/convert-codebase-to-playcanvas-game-6af7,Add netcode configuration to API config with local mode settings
+Cursor:branch,pre_2025-10,Exayes/sait_i,1,2025-07-11T21:10:35Z,Exayes,cursor/build-a-django-website-for-apple-sales-7ecf,Build a Django website for Apple sales
+Cursor:branch,pre_2025-10,chettidakhi-source/Apps,6,2025-07-26T01:34:05Z,cursor[bot],cursor/build-patient-session-tracking-app-c681,Build patient session tracking app
+Cursor:branch,pre_2025-10,mehran-shabani/first_intake,7,2025-08-23T10:41:13Z,mehran-shabani,cursor/review-and-fix-project-issues-5861,Review and fix project issues
+Cursor:branch,pre_2025-10,yashshahbdserver-hue/task_swapskill,4,2025-08-01T09:59:04Z,yashshahbdserver-hue,cursor/fix-data-error-and-implement-session-features-afc0,Fix data error and implement session features
+Cursor:branch,pre_2025-10,Nex2i/dripiq,151,2025-08-28T23:52:53Z,HGIRyan,cursor/update-contact-strategy-generation-and-display-bcea,Update contact strategy generation and display
+Copilot:branch+login,pre_2025-10,krinkuto11/acestream-orchestrator,11,2025-09-20T10:38:08Z,Copilot,copilot/fix-879ca621-5ba9-400e-95da-1a19dc3587c6,[WIP] tt
+Copilot:branch+login,pre_2025-10,StefanCermak/The-Portfolio,27,2025-09-28T15:30:14Z,Copilot,copilot/fix-4dbeaa88-5fcd-4139-902b-1077d6cef50b,[WIP] Selectable timespan
+Copilot:branch+login,pre_2025-10,pascalvanderheiden/azd-ais-customer-integration,47,2025-08-04T18:51:10Z,Copilot,copilot/fix-22,[WIP] Implement security and compliance tests
+Copilot:branch+login,pre_2025-10,baruchaviram/Treevibe,1,2025-09-20T21:06:53Z,Copilot,copilot/fix-5743ed9e-9728-4f6b-9c4a-0e5e56337dd4,[WIP] Add data export function for user migration
+Copilot:branch+login,pre_2025-10,nerealegui/capstone,28,2025-06-06T19:02:58Z,Copilot,copilot/fix-27,[WIP] Rule Versioning
+Copilot:branch+login,pre_2025-10,Aasrith22/lumen-main,1,2025-09-13T03:40:00Z,Copilot,copilot/fix-601b1e82-7e77-4ce2-a78b-390279ba40ae,[WIP] create a folder for frontend and backend
+Copilot:branch+login,pre_2025-10,xanox1/Moped-router,69,2025-09-05T11:55:27Z,Copilot,copilot/fix-b6de69c0-182e-48f8-a362-676993ab9864,[WIP] - Move the mocking functionalities behind menu options (navigation/alerts) and make the app actually do the navigation on the real data.
+Copilot:branch+login,pre_2025-10,dqikfox/ultron_agent,48,2025-09-04T17:51:59Z,Copilot,copilot/fix-47,[WIP] Ultron Agent: Major Components & Features Documentation
+Copilot:branch+login,pre_2025-10,inspiringsource/shellpomodoro,2,2025-09-06T17:09:47Z,Copilot,copilot/vscode1757178581799,"[WIP] Delegation Brief — Shellpomodoro v0.1.5 Stabilization (Detach/Attach + Viewer)
+
+Context (what’s broken right now)
+	•	Syntax errors in src/shellpomodoro/cli.py due to prose lines outside triple-quoted docstrings (not only in run, main, attach_ui, ..."
+Copilot:branch+login,pre_2025-10,ramadhan22/dropship-erp,404,2025-07-18T17:07:08Z,Copilot,copilot/fix-4edd244d-d582-441c-8a83-02fb0be6e834,"[WIP] ui design wise, improve the profit loss page design. replace the percentage in right column to be comparation between previous period to show if there's increase in sales and cost. make it in every row (cost and income). compare it to last period.
+Remov..."
+Copilot:branch+login,pre_2025-10,MightyPrytanis/Cyrano,10,2025-09-27T21:28:13Z,Copilot,copilot/fix-2a936415-4cc7-47b0-9a87-47fa76fd8bce,review the cyrano repository and verify that it contains functional tools and a functional mcp server that can be connected to real world AI using APIs and API keys that are contained in secrets. Be hyper skeptical of claims to have produced a working ...
+Copilot:branch+login,pre_2025-10,Toms-private-organisation/team_manager_registration_portal,4,2025-08-12T11:05:04Z,Copilot,copilot/fix-3,[WIP] ✨Set up Copilot instructions
+Copilot:branch+login,pre_2025-10,liljoker919/oakcitysoftwaresolutions,66,2025-07-28T00:44:21Z,Copilot,copilot/fix-65,[WIP] Implement Basic Django User Authentication
+Copilot:branch+login,pre_2025-10,microsoft/perfview,2289,2025-08-25T22:07:51Z,Copilot,copilot/fix-983,[WIP] NullReferenceException in ProviderBrowser.LevelSelected
+Copilot:branch+login,pre_2025-10,lucabol/Hello-World,195,2025-06-13T13:05:42Z,Copilot,copilot/fix-184,[WIP] Add a function to print a custom message in hello.c
+Copilot:branch+login,pre_2025-10,Quafadas/scautable,86,2025-09-11T17:42:05Z,Copilot,copilot/fix-85,[WIP] NaN breaks numeric summary fuction
+Copilot:branch+login,pre_2025-10,Unicorn-Dynamics/elizoscog,68,2025-07-13T13:22:09Z,Copilot,copilot/fix-45,[WIP] 🌐 Develop Dynamic Mesh Integration & Topology Optimization
+Copilot:branch+login,pre_2025-10,garncarz/songs,30,2025-08-31T12:18:43Z,Copilot,copilot/fix-18,[WIP] Pop G-dur – dynamics glitch
+Copilot:branch+login,pre_2025-10,colbylwilliams/notes-md,137,2025-08-21T23:26:16Z,Copilot,copilot/fix-130,[WIP] Start Documentation
+Copilot:branch+login,pre_2025-10,colbylwilliams/notes-md,138,2025-08-21T23:26:16Z,Copilot,copilot/fix-131,[WIP] Start Documentation
+Copilot:branch+login,pre_2025-10,pedaganim/bookclub-app,53,2025-09-09T03:10:24Z,Copilot,copilot/implement-book-club-management-features,"[WIP] Implement Book Club Group Creation, Joining, and Leaving"
+Copilot:branch+login,pre_2025-10,D4mi4n0/IdS-Project-2024-2025,1,2025-07-23T14:45:25Z,Copilot,copilot/fix-6663834b-59df-4153-8b7e-46d2bc994f08,"[WIP] ho fatto questo diagramma dei casi d'uso:
+
+
+
+@startuml
+!theme plain
+skinparam usecase {
+BackgroundColor LightBlue
+BorderColor DarkBlue
+ArrowColor Black
+}
+
+skinparam actor {
+BackgroundColor LightGreen
+BorderColor DarkGreen
+}
+
+title Diagramma dei Casi d'U..."
+Copilot:branch+login,pre_2025-10,alexlatam/Eutuxia,36,2025-09-25T01:58:57Z,Copilot,copilot/fix-b4032ebe-33df-4d79-9bf6-4c2951cc26ca,[WIP] Mejora la descripcion de proyecto en Github
+Copilot:branch+login,pre_2025-10,SwitchbackTech/compass,991,2025-09-25T14:57:45Z,Copilot,copilot/fix-8d397271-890b-483a-bbe5-4cbb61a05aa5,[WIP] Cannot save event after making recurrence change
+Copilot:branch+login,pre_2025-10,weijie-tan3/trino-js-client,2,2025-07-11T08:14:16Z,Copilot,copilot/fix-1,[WIP] Add support of Oauth
+Copilot:branch+login,pre_2025-10,gtonic/nfl_mcp,32,2025-09-02T21:18:35Z,Copilot,copilot/fix-31,[WIP] Bugfix Trending Players API
+Copilot:branch+login,pre_2025-10,Andrei-GJ/plataforma_ecommerce,7,2025-07-26T00:16:48Z,Copilot,copilot/fix-bc76f8b8-9388-4395-85fb-96091265c636,[WIP] Arreglar error de Suspense boundary con useSearchParams en /products (rama develop)
+Copilot:branch+login,pre_2025-10,Nik35/FastAPIStructure,4,2025-09-04T04:50:54Z,Copilot,copilot/fix-e258a3d1-15ec-4241-943d-e492a118bb8d,[WIP] Add Mermaid Workflow Diagram
+Copilot:branch+login,pre_2025-10,IlyaGrshin/wallet_animations,12,2025-09-17T21:21:44Z,Copilot,copilot/fix-01eba51b-3bf2-4c8f-9c2c-1a9f558498a1,[WIP] Merge TabBar-26 into main
+Copilot:branch+login,pre_2025-10,hanafiah-enovade/nodeapp,4,2025-08-13T02:34:25Z,Copilot,copilot/fix-3,[WIP] Endpoints for Xilnex greeting
+Copilot:branch+login,post_2025-10,Guessnica/Guessnica-backend,28,2026-01-25T17:39:38Z,Copilot,copilot/add-guessnica-game-functionality,
+Copilot:branch+login,post_2025-10,GavinChen37/GitSampleTest,1,2026-03-16T06:24:21Z,Copilot,copilot/test,
+Copilot:branch+login,post_2025-10,rasterdevapps/OneBook,24,2026-03-13T06:14:22Z,Copilot,copilot/create-and-deploy-sub-agents,
+Copilot:branch+login,post_2025-10,pdscomp/oc-freertos-dsp-xt,1,2025-12-19T04:06:06Z,Copilot,copilot/integrate-klipper-into-freertos,
+Copilot:branch+login,post_2025-10,moabdulhakim/masar-api,8,2026-01-26T20:33:37Z,Copilot,copilot/update-readme-for-current-stage,
+Copilot:branch+login,post_2025-10,CZY1688/Windowed-Program,4,2026-04-03T13:56:40Z,Copilot,copilot/fix-main-cpp-syntax-errors,
+Copilot:branch+login,post_2025-10,internetarchive/openlibrary,11625,2025-12-24T18:39:06Z,Copilot,copilot/fix-sitemaps-not-generating,
+Copilot:branch+login,post_2025-10,Ruthie-FRC/MLtune,3,2026-01-02T17:16:05Z,Copilot,copilot/rebrand-bayesopt-to-mltune,
+Copilot:branch+login,post_2025-10,johaankjis/Transformer-Based-Text-Summarization-System,1,2025-10-19T03:37:57Z,Copilot,copilot/add-repo-documentation-md,
+Copilot:branch+login,post_2025-10,Lwt235/IVCP,36,2026-02-21T16:10:51Z,Copilot,copilot/migrate-action-cls-to-verl,
+Copilot:branch+login,post_2025-10,gregoftheweb/nightlandapp,2,2026-01-16T01:38:35Z,Copilot,copilot/update-monster-spawn-rate,
+Copilot:branch+login,post_2025-10,corepunch/doom-ed,4,2026-01-13T13:15:33Z,Copilot,copilot/add-makefile-for-linux-mac,
+Copilot:branch+login,post_2025-10,TheDrack/python,57,2026-02-08T02:34:15Z,Copilot,copilot/force-env-variable-reading,
+Copilot:branch+login,post_2025-10,elasticdotventures/_b00t_,277,2026-03-21T05:53:26Z,Copilot,copilot/sub-pr-272,
+Copilot:branch+login,post_2025-10,praveenkumarkait24/Exp-Tracker,2,2026-02-13T16:12:11Z,Copilot,copilot/update-login-button-url,
+Copilot:branch+login,post_2025-10,carlescs/wandervault,244,2026-04-02T13:27:57Z,Copilot,copilot/add-trip-archiving-section,
+Copilot:branch+login,post_2025-10,Druidss/0xLens,1,2025-11-12T09:52:42Z,Copilot,copilot/add-0xlens-functionality,
+Copilot:branch+login,post_2025-10,ramshi7134/packito,1,2026-03-08T08:50:27Z,Copilot,copilot/improve-repository-presentation,
+Copilot:branch+login,post_2025-10,blindzero/IdentityLifecycleEngine,94,2026-01-21T16:04:03Z,Copilot,copilot/remove-requires-capabilities,
+Copilot:branch+login,post_2025-10,juliansaratsola-dev/infra_project,2,2026-01-04T20:12:27Z,Copilot,copilot/create-infrastructure-with-terraform,
+Copilot:branch+login,post_2025-10,algo1camejo/algotron-front,29,2025-12-30T23:57:29Z,Copilot,copilot/update-node-and-vite,
+Copilot:branch+login,post_2025-10,elizabetht/spelling-bee-assistant,2,2026-02-17T15:35:07Z,Copilot,copilot/make-application-brev-launchable,
+Copilot:branch+login,post_2025-10,jmassucco17/homelab,43,2026-02-20T16:32:39Z,Copilot,copilot/create-testing-plan-doc,
+Copilot:branch+login,post_2025-10,aiandyou50/CandleSpinner,6,2025-10-15T17:18:50Z,Copilot,copilot/implement-tonconnect-transaction-flow,
+Copilot:branch+login,post_2025-10,kocheck/Graphium,197,2026-01-02T01:03:25Z,Copilot,copilot/sub-pr-194,
+Copilot:branch+login,post_2025-10,iambitti/-,2,2025-12-26T14:19:09Z,Copilot,copilot/fix-issues-in-code,
+Copilot:branch+login,post_2025-10,justinamiller/SmallMind,63,2026-02-02T03:50:42Z,Copilot,copilot/cleanup-repo-for-commercial-grade,
+Copilot:branch+login,post_2025-10,s2m2s2d-web/amplify-vite-react-template,6,2025-11-06T10:36:20Z,Copilot,copilot/suggest-descriptive-names,
+Copilot:branch+login,post_2025-10,vanj900/sovereign-stack,18,2026-02-28T09:09:11Z,Copilot,copilot/setup-shadow-net-structure,
+Copilot:branch+login,post_2025-10,Nosto/search-templates-starter,626,2025-10-31T07:07:32Z,Copilot,copilot/add-simple-card-component,
